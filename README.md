@@ -138,7 +138,8 @@ Após treinar o modelo, você pode implantá-lo e testá-lo.
 
 5. Acesse "Endpoints" e abra o endpoint em tempo real "predict-rentals".
 - Na guia de teste, insira os dados de entrada fornecidos no exemplo JSON e clique em "Test".
-~~~JSON   {
+~~~JSON
+{
    "Inputs": { 
      "data": [
        {
